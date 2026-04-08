@@ -29,6 +29,15 @@ links:
 
 Developed a fully digital **lock-in amplifier (LIA)** system implemented on FPGA, targeting advanced measurement applications where extracting weak signals buried in noise is critical. This project resulted in two peer-reviewed publications.
 
+![Figure 8](images/sensors-25-lockamp-f8.png)
+*Figure 8 — from Galaviz et al., Sensors 25(2), 584 (2025).*
+
+![Figure 10](images/sensors-25-lockamp-f10.png)
+*Figure 10 — from Galaviz et al., Sensors 25(2), 584 (2025).*
+
+![Figure 11](images/sensors-25-lockamp-f11.png)
+*Figure 11 — from Galaviz et al., Sensors 25(2), 584 (2025).*
+
 ## Key Contributions
 
 - Designed the complete **digital signal processing pipeline** in VHDL: reference signal generation, phase-sensitive detection, and configurable low-pass filtering stages for in-phase (I) and quadrature (Q) outputs.
