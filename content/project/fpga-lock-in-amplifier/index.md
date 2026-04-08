@@ -30,13 +30,13 @@ links:
 Developed a fully digital **lock-in amplifier (LIA)** system implemented on FPGA, targeting advanced measurement applications where extracting weak signals buried in noise is critical. This project resulted in two peer-reviewed publications.
 
 ![Figure 8](images/sensors-25-lockamp-f8.png)
-*Figure 8 — from Galaviz et al., Sensors 25(2), 584 (2025).*
+*Figure 8. Block diagram classification with analog components and digital FPGA-based design blocks for the analysis and digital conditioning of bioelectrical signals. (Sensors 25(2), 584, 2025 — CC BY 4.0)*
 
 ![Figure 10](images/sensors-25-lockamp-f10.png)
-*Figure 10 — from Galaviz et al., Sensors 25(2), 584 (2025).*
+*Figure 10. Signal characteristics with the frequency/amplitude relationship. (Sensors 25(2), 584, 2025 — CC BY 4.0)*
 
 ![Figure 11](images/sensors-25-lockamp-f11.png)
-*Figure 11 — from Galaviz et al., Sensors 25(2), 584 (2025).*
+*Figure 11. System key building blocks for the processing signals at the hardware integrated circuit. (Sensors 25(2), 584, 2025 — CC BY 4.0)*
 
 ## Key Contributions
 
