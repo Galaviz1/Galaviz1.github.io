@@ -171,17 +171,18 @@ sections:
       columns: '2'
       view: citation
 
-  - block: collection
+  - block: portfolio
     id: projects
     content:
       title: Projects
       filters:
         folders:
           - project
-      count: 5
+      default_button_index: 0
     design:
-      columns: '2'
-      view: compact
+      columns: '1'
+      view: showcase
+      flip_alt_rows: false
 
   - block: contact
     id: contact
