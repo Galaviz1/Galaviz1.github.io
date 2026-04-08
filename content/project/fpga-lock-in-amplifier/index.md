@@ -32,7 +32,12 @@ Developed a fully digital **lock-in amplifier (LIA)** system implemented on FPGA
 ![Figure 8](images/sensors-25-lockamp-f8.png)
 *Figure 8. Block diagram classification with analog components and digital FPGA-based design blocks for the analysis and digital conditioning of bioelectrical signals. (Sensors 25(2), 584, 2025 — CC BY 4.0)*
 
+<div style="max-width:90%;margin:0 auto;">
+
 ![Figure 10](images/sensors-25-lockamp-f10.png)
+
+</div>
+
 *Figure 10. Signal characteristics with the frequency/amplitude relationship. (Sensors 25(2), 584, 2025 — CC BY 4.0)*
 
 ![Figure 11](images/sensors-25-lockamp-f11.png)
