@@ -17,9 +17,7 @@ superuser: true
 role: RF Research & Development Engineer
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: "T\xE9l\xE9com Paris"
-    url: https://www.telecom-paris.fr/
+organizations: []
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include RF power amplifier linearization, digital predistortion, behavioral modeling, and FPGA-based DSP systems.
@@ -65,7 +63,7 @@ social:
     link: https://www.linkedin.com/in/alejandro-galaviz-aguilar/
   - icon: orcid
     icon_pack: ai
-    link: https://orcid.org/
+    link: https://orcid.org/0000-0002-6550-124X
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
@@ -77,9 +75,11 @@ email: ''
 highlight_name: true
 ---
 
-Jose Alejandro Galaviz-Aguilar received the M.Sc. (2013) and Ph.D. (2017) degrees in Digital Systems from the Instituto Politecnico Nacional (IPN-CITEDI) in Tijuana, Mexico. From 2014 to 2016, he was a Visiting Scholar at the RF Nonlinear Research Laboratory, Department of Electrical and Computer Engineering, The Ohio State University, Columbus, OH, USA.
+Jose Alejandro Galaviz-Aguilar received the M.Sc. (2013) and Ph.D. (2017) degrees in Digital Systems from the [Instituto Politecnico Nacional](https://www.ipn.mx/) (IPN-CITEDI) in Tijuana, Mexico. From 2014 to 2016, he was a Visiting Scholar at the RF Nonlinear Research Laboratory, Department of Electrical and Computer Engineering, [The Ohio State University](https://engineering.osu.edu/), Columbus, OH, USA.
+{style="text-align: justify;"}
 
-He is currently an RF R&D Engineer at Telecom Paris (France) within the Docte6G national project in collaboration with NXP Semiconductors, developing next-generation digital predistortion techniques for millimeter-wave 6G systems. Previously, he held a postdoctoral research position at Tecnologico de Monterrey (2018--2025), where he led projects on reconfigurable intelligent surfaces, FPGA-based LDPC encoder/decoders, and 5G massive MIMO spectral optimization.
+From October 2024 to December 2025, he was an RF R&D Engineer at Telecom Paris (France) within the Docte6G national project in collaboration with NXP Semiconductors, developing next-generation digital predistortion techniques for millimeter-wave 6G systems. Previously, he held a postdoctoral research position at Tecnologico de Monterrey (2020--2026), where he led projects on reconfigurable intelligent surfaces, FPGA-based LDPC encoder/decoders, and 5G massive MIMO spectral optimization.
+{style="text-align: justify;"}
 
-He is an IEEE Senior Member and a member of the Mexican National Researchers System (SNI) Level I. His research spans RF power amplifier linearization, digital predistortion, NARMA behavioral modeling, FPGA-based DSP implementation, and machine learning techniques for nonlinear RF systems.
+He is an [IEEE Senior Member](https://www.ieee.org/membership/senior/) and a member of the [Mexican National Researchers System (SNII)](https://secihti.mx/snii/) Level I. His research spans RF power amplifier linearization, digital predistortion, NARMA behavioral modeling, FPGA-based DSP implementation, and machine learning techniques for nonlinear RF systems.
 {style="text-align: justify;"}

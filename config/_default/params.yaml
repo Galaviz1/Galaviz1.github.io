@@ -21,7 +21,7 @@ marketing:
     description: 'Academic webpage of Dr. Jose Alejandro Galaviz-Aguilar - RF R&D Engineer, Digital Predistortion, FPGA Design'
     twitter: ''
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-3L8BQ4WV5G'
     baidu_tongji: ''
   verification:
     google: ''
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Jose Alejandro Galaviz-Aguilar <img src="/images/icon.png" alt="JAG" class="footer-icon">. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -68,7 +68,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/Galaviz1/alexgalaviz.github.io'
+    url: 'https://github.com/Galaviz1/Galaviz1.github.io'
     content_dir: content
     branch: main
   avatar:

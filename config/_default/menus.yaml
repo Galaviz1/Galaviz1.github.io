@@ -6,6 +6,9 @@ main:
   - name: Experience
     url: '#experience'
     weight: 20
+  - name: Awards & Distinctions
+    url: '#awards'
+    weight: 25
   - name: Publications
     url: '#publications'
     weight: 30

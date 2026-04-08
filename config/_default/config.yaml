@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: J. A. Galaviz-Aguilar # Website name
-baseURL: 'https://galaviz1.github.io/' # Website URL
+title: Jose Alejandro Galaviz-Aguilar # Website name
+baseURL: 'https://galaviz-rf.com/' # Website URL
 
 ############################
 ## LANGUAGE

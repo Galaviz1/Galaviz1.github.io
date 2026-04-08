@@ -35,12 +35,17 @@ sections:
           description: DPD linearization, NARMA, spline modeling
           icon: wave-square
           icon_pack: fas
+        - name: HDL
+          description: HDL code generation, fixed-point design, hardware verification
+          icon: memory
+          icon_pack: fas
         - name: Research & Publication
           description: 15+ journal/conference papers, IEEE reviewer
           icon: book-open
           icon_pack: fas
 
   - block: experience
+    id: experience
     content:
       title: Experience
       date_format: Jan 2006
@@ -50,7 +55,7 @@ sections:
           company_url: 'https://www.telecom-paris.fr/'
           company_logo:
           location: Palaiseau, Paris, France
-          date_start: '2024-01-01'
+          date_start: '2024-10-01'
           date_end: '2025-12-31'
           description: |2-
               * RF R&D Engineer in the **Docte6G** national project in collaboration with NXP Semiconductors
@@ -62,7 +67,7 @@ sections:
           company_logo:
           location: Monterrey, Mexico
           date_start: '2020-01-01'
-          date_end: '2025-12-31'
+          date_end: '2026-01-31'
           description: |2-
               * Led reconfigurable intelligent surfaces (RIS) platform with AI-driven algorithms for 5G/6G
               * Designed FPGA-based AWGN module and LDPC encoder/decoder with UVM verification (SAGE Microelectronics)
@@ -93,17 +98,26 @@ sections:
       columns: '2'
 
   - block: accomplishments
+    id: awards
     content:
       title: Awards & Distinctions
       subtitle:
       date_format: Jan 2006
       items:
-        - title: Researcher Level I (SNI-I)
+        - title: Researcher Level I (SNII-I)
           certificate_url:
           date_end: ''
           date_start: '2022-01-01'
           description: Distinction by the National Researchers System of Mexico.
-          organization: CONACYT / SNI
+          organization: CONACYT / SNII
+          organization_url:
+          url: ''
+        - title: Researcher Candidate (SNII)
+          certificate_url:
+          date_end: '2021-12-31'
+          date_start: '2019-01-01'
+          description: Distinction by the National Researchers System of Mexico.
+          organization: CONACYT / SNII
           organization_url:
           url: ''
         - title: IEEE Senior Member
@@ -177,12 +191,12 @@ sections:
       text: Feel free to reach out for research collaborations, consulting, or academic inquiries.
       email: jagalaviz@ieee.org
       address:
-        street: 19 Place Marguerite Perey
-        city: Palaiseau
-        region: "Ile-de-France"
-        postcode: '91120'
-        country: France
-        country_code: FR
+        street:
+        city:
+        region:
+        postcode:
+        country:
+        country_code:
       autolink: true
     design:
       columns: '2'
