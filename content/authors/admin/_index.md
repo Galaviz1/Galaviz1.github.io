@@ -75,11 +75,11 @@ email: ''
 highlight_name: true
 ---
 
-Jose Alejandro Galaviz-Aguilar received the M.Sc. (2013) and Ph.D. (2017) degrees in Digital Systems from the [Instituto Politecnico Nacional](https://www.ipn.mx/) (IPN-CITEDI) in Tijuana, Mexico. From 2014 to 2016, he was a Visiting Scholar at the RF Nonlinear Research Laboratory, Department of Electrical and Computer Engineering, [The Ohio State University](https://engineering.osu.edu/), Columbus, OH, USA.
+Jose Alejandro Galaviz-Aguilar received his M.Sc. (2013) and Ph.D. (2017) degrees in Digital Systems from the [Instituto Politecnico Nacional](https://www.ipn.mx/) (IPN-CITEDI) in Tijuana, Mexico. During his doctoral studies, he spent two years (2014–2016) as a Visiting Scholar at the RF Nonlinear Research Laboratory, Department of Electrical and Computer Engineering, [The Ohio State University](https://engineering.osu.edu/), Columbus, OH, USA, where he gained expertise in RF power amplifier characterization and behavioral modeling.
 {style="text-align: justify;"}
 
-From October 2024 to December 2025, he was an RF R&D Engineer at Telecom Paris (France) within the Docte6G national project in collaboration with NXP Semiconductors, developing next-generation digital predistortion techniques for millimeter-wave 6G systems. Previously, he held a postdoctoral research position at Tecnologico de Monterrey (2020--2026), where he led projects on reconfigurable intelligent surfaces, FPGA-based LDPC encoder/decoders, and 5G massive MIMO spectral optimization.
+From October 2024 to December 2025, he served as an RF R&D Engineer at Telecom Paris (France), contributing to the Docte6G national project in collaboration with NXP Semiconductors on the development of advanced digital predistortion techniques for millimeter-wave 6G systems. Prior to this, he held a postdoctoral research appointment at Tecnologico de Monterrey (2020–2024), where he led research initiatives on reconfigurable intelligent surfaces, FPGA-based LDPC encoder/decoder architectures, and spectral optimization strategies for 5G massive MIMO systems.
 {style="text-align: justify;"}
 
-He is an [IEEE Senior Member](https://www.ieee.org/membership/senior/) and a member of the [Mexican National Researchers System (SNII)](https://secihti.mx/snii/) Level I. His research spans RF power amplifier linearization, digital predistortion, NARMA behavioral modeling, FPGA-based DSP implementation, and machine learning techniques for nonlinear RF systems.
+He is recognized as an [IEEE Senior Member](https://www.ieee.org/membership/senior/) and holds a Level I distinction in the [Mexican National Researchers System (SNII)](https://secihti.mx/snii/). His research interests encompass RF power amplifier linearization, digital predistortion, NARMA-based behavioral modeling, FPGA-based digital signal processing, and the application of machine learning to nonlinear RF system design.
 {style="text-align: justify;"}
