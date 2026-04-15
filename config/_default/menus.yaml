@@ -15,9 +15,15 @@ main:
   - name: Projects
     url: '#projects'
     weight: 40
+  - name: Consulting
+    url: consulting/
+    weight: 50
+  - name: Resources
+    url: recommended/
+    weight: 55
   - name: Contact
     url: '#contact'
-    weight: 50
+    weight: 60
   - name: CV
     url: uploads/resume.pdf
-    weight: 60
+    weight: 70
