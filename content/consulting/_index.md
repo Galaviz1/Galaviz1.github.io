@@ -37,14 +37,14 @@ Leverage over a decade of hands-on experience in RF power amplifier linearizatio
 
 ## Engagement Models
 
-| Model | Description | Starting At |
-|---|---|---|
-| **Hourly Consultation** | Ad-hoc technical advice, design review, troubleshooting | $150/hr |
-| **Project-Based** | Defined scope and deliverables, fixed timeline | Custom quote |
-| **Retainer** | Ongoing advisory access, priority response | $1,500/mo |
-| **Academic Mentorship** | Thesis guidance, paper review, research direction | $100/hr |
+| Model | Description |
+|---|---|
+| **Hourly Consultation** | Ad-hoc technical advice, design review, troubleshooting |
+| **Project-Based** | Defined scope and deliverables, fixed timeline |
+| **Retainer** | Ongoing advisory access, priority response |
+| **Academic Mentorship** | Thesis guidance, paper review, research direction |
 
-All engagements include an **initial 30-minute discovery call at no charge**.
+All engagements begin with a **complimentary 30-minute discovery call** to assess your project needs and define the scope of work. Tailored proposals with deliverables and timelines are provided after the initial consultation.
 
 ---
 
