@@ -15,9 +15,9 @@ main:
   - name: Projects
     url: '#projects'
     weight: 40
-  - name: Consulting
-    url: consulting/
-    weight: 50
+  # - name: Consulting
+  #   url: consulting/
+  #   weight: 50
   - name: Resources
     url: recommended/
     weight: 55
